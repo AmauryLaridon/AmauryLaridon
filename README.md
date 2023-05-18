@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmauryLaridon, a 22 year old student
+- 👋 Hi, I’m @AmauryLaridon, a 23 year old student
 - 👀 I’m interested in climate change 
 - 🌱 I’m currently learning a master's degree in physical science specializing in climatology at UCLouvain, Belgium
 - 💞️ I’m looking to collaborate on ...
