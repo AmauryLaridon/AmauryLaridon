@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmauryLaridon, a 24 year old PhD student at VUB, Belgium.
+- 👋 Hi, I’m @AmauryLaridon, a 25 year old PhD student at VUB, Belgium.
 - 👀 I’m interested in climate change, tipping points and climate extremes. 
 - 🌱 I’m currently working on my TIPPIMPACTS project which aim to assess the first lifetime exposure to climate extremes for the 22nd century considering likely collapse of the AMOC, the Amazonian rainforest and the permafrost. 
 - 📫 You can reach me trough my email adress : Amaury.Laridon@vub.be
